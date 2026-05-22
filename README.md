@@ -69,7 +69,7 @@ AI-Fashion-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Fashion-Generator.git
+git clone https://github.com/Lithiya182/AI-Fashion-Generator.git
 ```
 
 Move into the project directory:

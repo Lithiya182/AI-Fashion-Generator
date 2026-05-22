@@ -33,7 +33,8 @@ Generate fashion items in real time with an interactive modern UI.
 
 ### Main Interface
 
-![UI Preview](assets/ui-preview.png)
+![UI Preview](assets/Screenshot 2026-05-22 212125.png).
+![UI Preview](assets/Screenshot 2026-05-22 213335.png).
 
 ---
 
